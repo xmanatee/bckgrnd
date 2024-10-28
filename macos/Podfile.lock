@@ -1,0 +1,49 @@
+PODS:
+  - flutter_local_notifications (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - record_darwin (1.0.0):
+    - Flutter
+    - FlutterMacOS
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - whisper_flutter_new (0.0.1):
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - flutter_local_notifications (from `Flutter/ephemeral/.symlinks/plugins/flutter_local_notifications/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+  - path_provider_foundation (from `Flutter/ephemeral/.symlinks/plugins/path_provider_foundation/darwin`)
+  - record_darwin (from `Flutter/ephemeral/.symlinks/plugins/record_darwin/macos`)
+  - shared_preferences_foundation (from `Flutter/ephemeral/.symlinks/plugins/shared_preferences_foundation/darwin`)
+  - whisper_flutter_new (from `Flutter/ephemeral/.symlinks/plugins/whisper_flutter_new/macos`)
+
+EXTERNAL SOURCES:
+  flutter_local_notifications:
+    :path: Flutter/ephemeral/.symlinks/plugins/flutter_local_notifications/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+  path_provider_foundation:
+    :path: Flutter/ephemeral/.symlinks/plugins/path_provider_foundation/darwin
+  record_darwin:
+    :path: Flutter/ephemeral/.symlinks/plugins/record_darwin/macos
+  shared_preferences_foundation:
+    :path: Flutter/ephemeral/.symlinks/plugins/shared_preferences_foundation/darwin
+  whisper_flutter_new:
+    :path: Flutter/ephemeral/.symlinks/plugins/whisper_flutter_new/macos
+
+SPEC CHECKSUMS:
+  flutter_local_notifications: 3805ca215b2fb7f397d78b66db91f6a747af52e4
+  FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
+  path_provider_foundation: 2b6b4c569c0fb62ec74538f866245ac84301af46
+  record_darwin: df0a677188e5fed18472550298e675f19ddaffbe
+  shared_preferences_foundation: fcdcbc04712aee1108ac7fda236f363274528f78
+  whisper_flutter_new: 6a658049000ed4a0dbe2231482921b7ac22ae36a
+
+PODFILE CHECKSUM: 9ebaf0ce3d369aaa26a9ea0e159195ed94724cf3
+
+COCOAPODS: 1.15.2
